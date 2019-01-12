@@ -1,0 +1,6 @@
+D:\CreatingMyPrograms\SaperGame\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\CreatingMyPrograms\SaperGame\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\CreatingMyPrograms\SaperGame\Utils\bin\Debug\Utils.dll
+D:\CreatingMyPrograms\SaperGame\Utils\bin\Debug\Utils.pdb
+D:\CreatingMyPrograms\SaperGame\Utils\obj\Debug\Utils.dll
+D:\CreatingMyPrograms\SaperGame\Utils\obj\Debug\Utils.pdb

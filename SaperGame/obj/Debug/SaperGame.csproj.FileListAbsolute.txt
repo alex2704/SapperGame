@@ -1,0 +1,12 @@
+D:\CreatingMyPrograms\SaperGame\SaperGame\bin\Debug\SaperGame.exe.config
+D:\CreatingMyPrograms\SaperGame\SaperGame\bin\Debug\SaperGame.exe
+D:\CreatingMyPrograms\SaperGame\SaperGame\bin\Debug\SaperGame.pdb
+D:\CreatingMyPrograms\SaperGame\SaperGame\obj\Debug\SaperGame.csprojResolveAssemblyReference.cache
+D:\CreatingMyPrograms\SaperGame\SaperGame\obj\Debug\SaperGame.Properties.Resources.resources
+D:\CreatingMyPrograms\SaperGame\SaperGame\obj\Debug\SaperGame.csproj.GenerateResource.Cache
+D:\CreatingMyPrograms\SaperGame\SaperGame\obj\Debug\SaperGame.csproj.CoreCompileInputs.cache
+D:\CreatingMyPrograms\SaperGame\SaperGame\obj\Debug\SaperGame.exe
+D:\CreatingMyPrograms\SaperGame\SaperGame\obj\Debug\SaperGame.pdb
+D:\CreatingMyPrograms\SaperGame\SaperGame\obj\Debug\SaperGame.SapperForm.resources
+D:\CreatingMyPrograms\SaperGame\SaperGame\bin\Debug\Utils.dll
+D:\CreatingMyPrograms\SaperGame\SaperGame\bin\Debug\Utils.pdb
